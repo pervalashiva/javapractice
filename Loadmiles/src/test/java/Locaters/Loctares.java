@@ -38,7 +38,9 @@ public class Loctares {
 		//classname
 //		List<WebElement> headerLinks = (List<WebElement>) driver.findElement(By.className("list-inline-item"));
 //		System.out.println("total link:" + headerLinks.size());
-//		
+//		//tagname
+		//List<WebElement> headerLinks = driver.findElements(By.tagName("a"));
+		//System.out.orintln("Total number  of links" + links.Size());
 		
 		driver.close();
 		
